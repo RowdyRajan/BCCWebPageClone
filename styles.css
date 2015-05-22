@@ -1,0 +1,185 @@
+	body{
+		margin:0;
+		font-family:arial:helvetica:sans-serif;
+	}
+	#topMenu{
+		background-color:#790000;
+		width:100%;
+		height:40px;
+		color:white;
+	}
+	#BBCImage{
+		float:left;
+		padding-top:5px;
+		
+		padding-right:10px;
+		padding-bottom:7px;	
+		border-right: 1px solid #990000
+		
+	}
+	
+	#centerMenu{
+			width:50px;
+			height:50px;
+			background-color:green;
+			margin:5 auto;
+			float:left;
+				
+	}
+	.fixedWidth{
+		width:1050px;
+		margin:0 auto;
+		
+	}
+	
+	
+	#signIn{
+		float:left;
+		font-weight:bold;
+		font-size:0.9em;
+		padding:6px 80px 17px 20px;
+		border-right: 1px solid #990000
+	}
+	
+	#topOptions{
+		float:left;	
+	}
+	#topOptions ul{
+		margin:0;
+		padding:0;	
+	}
+	#topOptions li{
+		list-style:none;
+		font-weight:bold;
+		font-size:0.9em;
+		float:left;
+		padding: 10px 15px 12px 10px;
+		border-right: 1px solid #990000
+		
+	}
+	
+	#topSearchBar{
+		float:left;
+	}
+	#topSearchBar input{
+		margin:10px 0px 0px 15px;
+		
+		background-image:url("Images/search.png");
+		background-repeat:no-repeat;
+		background-position:right center;
+	}
+	
+	#middleMenu{
+		
+		background-color:#990000;
+		width:100%;
+		height:85px;
+		color:white;
+	}
+	#middleMenu p{
+		margin:0;
+		
+	}
+	.clear{
+		clear:both;
+	}
+	
+	#newsHeader{
+		font-size:3em;
+		padding-top:10px;
+		float:left;	
+	}
+	#ukHeader{
+		font-size:0.5em
+		
+	}
+	#rss{
+		float:right;
+		margin-top:40px;
+		
+	}	
+	#middleMenuOptions{
+		margin:0;
+		padding:0;
+		
+	}
+	#middleMenuOptions li{
+			list-style:none;
+			float:left;
+			font-size:0.9em;
+			background-color:#3E0C0D;
+			padding:2px 5px 0px 5px;
+			border-right:1px solid #5B2D2F;
+	}
+	
+	#date{
+		padding-top:10px;
+	}
+	
+	#content{
+		width:1050px;
+		margin:0 auto;
+		color:#878787;
+		line-height:1.2em;
+	}
+	
+	#content p{
+		margin:0;
+	}
+	
+	a{
+		color:#4D739C;
+	}
+	#header{
+		color:#1F4F82;
+		margin:10px 0px 10px 0px;
+	}
+	
+	#content img{
+	float:left;
+	}
+	
+	#description{
+		float:left;
+		width:280px;
+		margin-left:10px;
+	}
+	.play{
+		background-image:url("Images/play.png");
+		background-repeat:no-repeat;
+		background-position:left center;
+		padding-left:18px;
+		background-size:10%;
+	}
+	a:hover{
+		text-decoration:underline;
+	}
+	#content h1:hover{
+		text-decoration:underline;
+	}
+	
+	#watch{
+		float:right;
+		position:relative;
+		top:-40px;
+		right:100px;
+		background-color:#EEEEEE;
+		color:#505050;
+		width:285px;		
+	
+	}
+	#watch p{
+		margin:0;
+	}
+	#watchHeader{
+		font-size:2em;
+		padding-top:10px;
+	}
+	.live{
+		position:relative;
+				
+		background-image:url("Images/live.png");
+		background-repeat:no-repeat;
+		background-position:left center;
+		padding-left:30px;
+	}
